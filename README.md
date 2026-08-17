@@ -1,5 +1,8 @@
 # practical-cpp
 
+> A hands-on learning repository containing exercises, experiments, and small projects.
+
+## Overview
 Exercises and projects in **C++** completed as part of my Software Engineering studies at **CFI-CIRAS** (Brazzaville, Congo).
 
 This repository focuses on building strong algorithmic and systems thinking through C++ — one of the most rigorous languages in computer science.
